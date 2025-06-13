@@ -103,6 +103,7 @@ Would you like a printable one-page version or a branding concept for packaging?
 
 
 
+![](./packaging-graphic.png)
 
 
 
